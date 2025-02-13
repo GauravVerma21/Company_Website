@@ -3,7 +3,7 @@
 A modern, responsive advertising agency website built with React.js and Tailwind CSS. This project provides users with an interactive UI, smooth animations, and section-based navigation for a seamless experience.
 
 
- Features
+ Features :-
  
 ✅ Responsive Design – Works on all screen sizes (Mobile, Tablet, Desktop).
 
@@ -18,7 +18,7 @@ A modern, responsive advertising agency website built with React.js and Tailwind
 ✅ Footer & Contact Section – Users can scroll directly to the contact form.
 
 
-Tech Stack
+Tech Stack :-
 
 Frontend (React.js) 
 
